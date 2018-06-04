@@ -6,5 +6,6 @@ sap.ui.define([
 	return Controller.extend("CH.INDUSTRY.REPO1.controller.Landing", {
 		//BUGFIX 1 
 		//Test IC_new master IC
+		//Test new setting parameter on url
 	});
 });
